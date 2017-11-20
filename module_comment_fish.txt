@@ -1,0 +1,4 @@
+"""
+Solution for "{{ KATA_NAME }}" kata:
+{{ KATA_URL }}
+"""
